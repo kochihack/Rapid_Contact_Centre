@@ -1,4 +1,5 @@
-Rapid_Contact_Centre
+# Rapid_Contact_Centre
+Amal Das N P and Akhil Rajan
 
 A contact centre for handling emergency situations where communication becomes a necessity.
 This is a project aimed to lend a hand to those who needs help once a disaster has taken place.
@@ -14,6 +15,3 @@ What We Used
 --Amazon S3
 --Flask
 
-
-# Rapid_Contact_Centre
-Amal Das N P and Akhil Rajan
